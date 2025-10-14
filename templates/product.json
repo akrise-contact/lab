@@ -26,32 +26,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_KLrttA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ea3JWm": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur :",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_ea3JWm"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_Mmfaji": {
       "type": "logo-list",
       "blocks": {
@@ -98,9 +72,9 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "",
+        "title": "Vu sur :",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -393,7 +367,6 @@
   },
   "order": [
     "image_with_text_overlay_8J9wgX",
-    "rich_text_KLrttA",
     "logo_list_Mmfaji",
     "rich_text_Fd8DGf",
     "image_with_text_overlay_zCmxN3",
