@@ -470,6 +470,67 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "faq_eQRwy3": {
+      "type": "faq",
+      "blocks": {
+        "item_PmQhG9": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est l'autonomie de la batterie ?",
+            "content": "<p>La console offre jusqu'à 12 heures d'autonomie par charge complète, ce qui vous permet de jouer pendant de longues sessions sans interruption. Le temps de jeu peut varier selon la luminosité de l'écran et le type de jeu utilisé.</p>"
+          }
+        },
+        "item_gCMd3r": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous expédions sous 24-48h ouvrées. La livraison offerte prend généralement 5-8 jours jours ouvrés . Un numéro de suivi vous sera communiqué dès l'expédition de votre commande.</p>"
+          }
+        },
+        "item_KzpjK6": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je sauvegarder ma progression dans les jeux ?",
+            "content": "<p>Pour sauvegarder votre partie, appuyez simultanément sur SELECT + L1/R1. Pour charger une sauvegarde, utilisez la même combinaison. Vous pouvez gérer vos emplacements de sauvegarde avec SELECT + UP/DOWN.</p>"
+          }
+        },
+        "item_WJ6Q86": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je ajouter d'autres jeux ?",
+            "content": "<p>Vous pouvez facilement télécharger et ajouter vos propres jeux si vous le souhaitez. Il suffit d'insérer une carte TF (microSD) dans le slot prévu à cet effet, d'y transférer vos fichiers ROM depuis votre ordinateur, et la console les détectera automatiquement. Cela vous permet de personnaliser entièrement votre bibliothèque de jeux.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PmQhG9",
+        "item_gCMd3r",
+        "item_KzpjK6",
+        "item_WJ6Q86"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -482,6 +543,7 @@
     "tabs_cLtq4N",
     "image_with_text_overlay_f78tR3",
     "multi_column_BaYcXL",
-    "image_with_text_overlay_QDytb6"
+    "image_with_text_overlay_QDytb6",
+    "faq_eQRwy3"
   ]
 }
