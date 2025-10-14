@@ -241,12 +241,16 @@
             "text": "<h1>RetroGame Pro</h1>"
           }
         },
-        "description": {
-          "type": "description",
+        "liquid_qVmcNN": {
+          "type": "liquid",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_LDcCKw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-highlights\">\n  <p>🕹️ Prêt à jouer instantanément</p>\n  <p>🕹️ Sauvegarde auto de progression</p>\n  <p>🕹️ 12h d'autonomie sans Wi-Fi</p>\n  <p>🕹️ Garantie 1 an pour jouer l’esprit tranquille</p>\n</div>"
           }
         },
         "buy_buttons": {
@@ -269,7 +273,8 @@
       },
       "block_order": [
         "text_V3ENx7",
-        "description",
+        "liquid_qVmcNN",
+        "liquid_LDcCKw",
         "buy_buttons",
         "liquid_AT8Nee"
       ],
