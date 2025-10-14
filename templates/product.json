@@ -12,10 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
+        "text_V3ENx7": {
+          "type": "text",
           "settings": {
-            "heading_tag": "h1"
+            "text": "<h1><strong>RetroGame Pro</strong></h1>"
           }
         },
         "description": {
@@ -45,7 +45,7 @@
         }
       },
       "block_order": [
-        "title",
+        "text_V3ENx7",
         "description",
         "buy_buttons",
         "liquid_AT8Nee"
@@ -124,10 +124,27 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "image_with_text_overlay_f78tR3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/LIVRAISON_GRATUITE_9b992ffd-250b-4f44-9830-9088763c8fc3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
-    "tabs_cLtq4N"
+    "tabs_cLtq4N",
+    "image_with_text_overlay_f78tR3"
   ]
 }
