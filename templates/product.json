@@ -15,7 +15,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h1"
           }
         },
         "description": {
@@ -74,7 +74,7 @@
         "tab_34CWqz": {
           "type": "tab",
           "settings": {
-            "title": "🎮Quels jeux sont inclus ?",
+            "title": "🎮 Quels jeux sont inclus ?",
             "content": "<p>GameLab arrive préchargé avec plus de <strong>15 000 classiques</strong> sur GB/GBC/GBA, SNES, PS1, N64, DS, PSP et bien plus encore. Aucun téléchargement, compte ou Wi-Fi nécessaire.<br/><br/><strong>Les incontournables :</strong> Mario Kart, Street Fighter II, Sonic, Crash, Tekken 3, Bomberman… et une multitude de jeux d’arcade et de simulations relaxantes.<br/><br/>[Voir la liste complète des jeux]</p>",
             "page": ""
           }
@@ -90,7 +90,7 @@
         "tab_tBEM3R": {
           "type": "tab",
           "settings": {
-            "title": "🛡️Garantie de 12 Mois",
+            "title": "🛡️  Garantie de 12 Mois",
             "content": "<p>Votre GameLab est protégé avec <strong>12 mois de garantie</strong> contre tout défaut. Si quelque chose ne va pas, nous nous occupons de la réparation ou du remplacement pour vous, sans tracas.</p>",
             "page": ""
           }
@@ -98,7 +98,7 @@
         "tab_wkNc9H": {
           "type": "tab",
           "settings": {
-            "title": "🤝Multijoueur et Échanges",
+            "title": "🤝 Multijoueur et Échanges",
             "content": "<p>Jouez avec vos amis et faites du <strong>trading de jeux</strong> ! Connectez deux GameLabs pour des courses en tête-à-tête et des soirées multijoueur.<br/><br/>Pour profiter de fonctionnalités supplémentaires comme les échanges et évolutions de personnages dans certains jeux, ajoutez le <strong>Dongle Wi-Fi</strong> et connectez vos consoles au même réseau domestique.</p>",
             "page": ""
           }
@@ -124,33 +124,10 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
     "main",
-    "tabs_cLtq4N",
-    "related-products"
+    "tabs_cLtq4N"
   ]
 }
