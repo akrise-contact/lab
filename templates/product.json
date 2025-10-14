@@ -82,6 +82,7 @@
         "logo_7bRDWC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Jeuxvideo.com_Logo.png",
             "logo_width": 120,
             "link": ""
           }
