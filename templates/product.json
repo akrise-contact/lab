@@ -58,13 +58,15 @@
         "logo_kkm8NX": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/micromania-logo-png_seeklogo-305742.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_N6BHLq": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Game_One_PL.png",
             "logo_width": 120,
             "link": ""
           }
@@ -72,6 +74,7 @@
         "logo_DChA9H": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/alguem-sabe-dizer-se-a-instant-gaming-e-confiavel-v0-4eof36975cdf1-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -94,7 +97,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "",
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
