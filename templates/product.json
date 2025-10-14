@@ -363,6 +363,113 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "multi_column_BaYcXL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FjdxYw": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/35986219915241c89f7147081e803daf.HD-1080p-4.8Mbps-58590797.mp4",
+            "column_size": "3",
+            "title": "💾 Sauvegardez & reprenez à tout moment",
+            "heading_tag": "h4",
+            "content": "<p>Appuyez sur <strong>Select + X</strong> pour enregistrer votre partie avant un boss, un saut difficile ou le dernier tour.</p><p>Raté ? <strong>Rechargez. Recommencez.</strong><br/><br/>Aucun redémarrage. Aucune frustration.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_97yfCm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/d6176092ba784c518d4c1dc82b35f573.HD-1080p-2.5Mbps-58590104.mp4",
+            "column_size": "3",
+            "title": "👾 Jouez ensemble. Échangez ensemble.",
+            "heading_tag": "h4",
+            "content": "<p>Connectez deux GameLab et plongez dans des duels, des courses, des combats ou des parties endiablées entre amis.</p><p>Envie d’échanger ou de faire évoluer vos jeux ?<br/><br/>Ajoutez le <strong>dongle Wi-Fi</strong>, connectez les deux consoles au même réseau domestique, et <strong>échangez vos titres compatibles.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QDCYkc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gamelab_pic.png",
+            "column_size": "3",
+            "title": "🎮 Revivez les classiques. Partout. À tout moment.",
+            "heading_tag": "h4",
+            "content": "<p>GameLab met l’âge d’or du jeu vidéo <strong>dans votre poche</strong>.Plus de <strong>15 000 jeux légendaires</strong>, sans installation, sans téléchargement, et <strong>sans connexion Internet</strong>.</p><p>Rapide, portable et incroyablement simple.Allumez-la, choisissez votre jeu… et <strong>laissez-vous emporter pendant des heures.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pR6gby": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gamelab_pic_3.png",
+            "column_size": "3",
+            "title": "⚙️ Conçue comme les consoles qui vous ont fait grandir",
+            "heading_tag": "h4",
+            "content": "<p>Chaque image, chaque pression de touche est <strong>réactive, fluide et précise</strong>.</p><p>GameLab offre <strong>les sensations des consoles d’autrefois</strong>, mais en mieux.</p><p>Aucun lag. Aucun bug.<br/><br/>Juste du <strong>gameplay pur</strong>, comme avant.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xiNjyb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/regfedfgdf.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FjdxYw",
+        "item_97yfCm",
+        "item_QDCYkc",
+        "item_pR6gby",
+        "item_xiNjyb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_QDytb6": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/BOUTON_MARCHE.png",
+        "mobile_image": "shopify://shop_images/BOUTON_MARCHE.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -373,6 +480,8 @@
     "multi_column_8zqerX",
     "main",
     "tabs_cLtq4N",
-    "image_with_text_overlay_f78tR3"
+    "image_with_text_overlay_f78tR3",
+    "multi_column_BaYcXL",
+    "image_with_text_overlay_QDytb6"
   ]
 }
