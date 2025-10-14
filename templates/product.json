@@ -9,13 +9,258 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_8J9wgX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.png",
+        "mobile_image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_KLrttA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ea3JWm": {
+          "type": "heading",
+          "settings": {
+            "text": "Vu sur",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ea3JWm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_Mmfaji": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_kkm8NX": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_N6BHLq": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_DChA9H": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_7bRDWC": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_kkm8NX",
+        "logo_N6BHLq",
+        "logo_DChA9H",
+        "logo_7bRDWC"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_Fd8DGf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yBDiXe": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi RetroGame Pro ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yBDiXe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_zCmxN3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices.png",
+        "mobile_image": "shopify://shop_images/6_benefices.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_8zqerX": {
+      "type": "multi-column",
+      "blocks": {
+        "item_i9DXxF": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_2025-10-14_14-59-08.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QXidcC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@bonplandenils_1760447508629.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cQdRUd": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_2025-10-14_14-59-04.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_heneXb": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@mmminidroneee_1760447820549.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YBdXzb": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@zahir_dahmani_1760447656949.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EBjG8Y": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@tech_labo__1760447422042.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_i9DXxF",
+        "item_QXidcC",
+        "item_cQdRUd",
+        "item_heneXb",
+        "item_YBdXzb",
+        "item_EBjG8Y"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "+50.000 clients satisfaits",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
         "text_V3ENx7": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>RetroGame Pro</strong></h1>"
+            "text": "<h1>RetroGame Pro</h1>"
           }
         },
         "description": {
@@ -143,6 +388,12 @@
     }
   },
   "order": [
+    "image_with_text_overlay_8J9wgX",
+    "rich_text_KLrttA",
+    "logo_list_Mmfaji",
+    "rich_text_Fd8DGf",
+    "image_with_text_overlay_zCmxN3",
+    "multi_column_8zqerX",
     "main",
     "tabs_cLtq4N",
     "image_with_text_overlay_f78tR3"
