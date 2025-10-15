@@ -253,6 +253,12 @@
             "liquid": "<div class=\"product-highlights\">\n  <p>🕹️ Prêt à jouer instantanément</p>\n  <p>🕹️ Sauvegarde auto de progression</p>\n  <p>🕹️ 12h d'autonomie sans Wi-Fi</p>\n  <p>🕹️ Garantie 1 an pour jouer l’esprit tranquille</p>\n</div>"
           }
         },
+        "kaching_bundles_app_block_WQR4Ad": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -275,6 +281,7 @@
         "text_V3ENx7",
         "liquid_qVmcNN",
         "liquid_LDcCKw",
+        "kaching_bundles_app_block_WQR4Ad",
         "buy_buttons",
         "liquid_AT8Nee"
       ],
