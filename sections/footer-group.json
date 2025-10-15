@@ -11,23 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "image_with_text_overlay_XeKnyB": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/gamliht_logo.png",
-        "mobile_image": "shopify://shop_images/gamliht_logo.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -102,8 +85,47 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_XeKnyB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/gamliht_logo.png",
+        "mobile_image": "shopify://shop_images/gamliht_logo.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "links_qfgAGj": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_KiXgTf": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "links_qfgAGj",
+        "links_KiXgTf"
+      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
