@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison Offerte",
+            "url": ""
+          }
+        },
+        "message_ajWCUn": {
+          "type": "message",
+          "settings": {
+            "text": "-50 % pré black friday",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_ajWCUn"
       ],
       "settings": {
         "enable_sticky": false,
