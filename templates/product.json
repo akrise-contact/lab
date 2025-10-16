@@ -265,9 +265,9 @@
             "show_payment_button": false,
             "show_gift_card_recipient": false,
             "atc_button_background": "#be00c8",
-            "atc_button_text_color": "",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "#be00c8",
-            "payment_button_text_color": ""
+            "payment_button_text_color": "#ffffff"
           }
         },
         "liquid_AT8Nee": {
