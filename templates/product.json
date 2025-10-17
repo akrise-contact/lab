@@ -235,12 +235,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_FDbenT": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display:flex;justify-content:center;align-items:center;\nbackground:#f5f5f5;padding:8px 18px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13.5px;font-weight:700;\ncolor:#000;text-transform:uppercase;margin:auto;max-width:fit-content;\">\n  Élu meilleur console retro de 2025 🏆\n</div>"
-          }
-        },
         "text_V3ENx7": {
           "type": "text",
           "settings": {
@@ -250,7 +244,7 @@
         "liquid_qVmcNN": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+            "liquid": "{% comment %}\nSnippet: rating-badge.liquid\nUsage: include this snippet where you want the rating badge to appear (product page, header, section...).\nExample: {% include 'rating-badge' %} or {% render 'rating-badge' %}\nThis file displays a 4.8/5 rating with 1485 avis, stars colored #BE00C8 and text in white. It also includes JSON-LD AggregateRating for SEO.\n{% endcomment %}\n\n<div class=\"avika-rating\" role=\"img\" aria-label=\"Note moyenne 4.8 sur 5 basée sur 1485 avis\">\n  <div class=\"avika-stars\" aria-hidden=\"true\">\n    <!-- 5 étoiles, partiellement remplies visuellement mais toutes en couleur demandée -->\n    {% assign star_count = 5 %}\n    {% for i in (1..star_count) %}\n      <svg class=\"avika-star\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\">\n        <path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\" />\n      </svg>\n    {% endfor %}\n  </div>\n\n  <div class=\"avika-rating-text\">\n    <span class=\"avika-score\">4.8/5</span>\n    <span class=\"avika-reviews\">(1485 avis)</span>\n  </div>\n</div>\n\n<style>\n/* Styles scoped pour le rendu : étoile BE00C8, texte blanc */\n.avika-rating{\n  display:inline-flex;\n  align-items:center;\n  gap:10px;\n  color:#ffffff; /* texte blanc */\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\n  font-size:14px;\n}\n.avika-stars{display:flex;gap:4px;align-items:center}\n.avika-star{width:18px;height:18px;fill:#BE00C8;flex-shrink:0}\n.avika-score{font-weight:700;margin-right:6px}\n.avika-reviews{opacity:0.9}\n\n/* Responsive */\n@media (max-width:480px){\n  .avika-rating{font-size:13px}\n  .avika-star{width:16px;height:16px}\n}\n</style>\n\n{%- comment -%}\nJSON-LD pour SEO (AggregateRating). Si tu as déjà un script ld+json pour le produit, fusionne-les pour éviter les duplications.\n{%- endcomment -%}\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"{{ product.title | escape }}\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.8\",\n    \"reviewCount\": \"1485\",\n    \"bestRating\": \"5\",\n    \"worstRating\": \"1\"\n  }\n}\n</script>"
           }
         },
         "liquid_LDcCKw": {
@@ -284,7 +278,6 @@
         }
       },
       "block_order": [
-        "liquid_FDbenT",
         "text_V3ENx7",
         "liquid_qVmcNN",
         "liquid_LDcCKw",
