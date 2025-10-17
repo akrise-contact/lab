@@ -21,6 +21,13 @@
             "url": ""
           }
         },
+        "message_nqR6qW": {
+          "type": "message",
+          "settings": {
+            "text": "+20 consoles légendaires",
+            "url": ""
+          }
+        },
         "message_ajWCUn": {
           "type": "message",
           "settings": {
@@ -31,6 +38,7 @@
       },
       "block_order": [
         "message",
+        "message_nqR6qW",
         "message_ajWCUn"
       ],
       "settings": {
