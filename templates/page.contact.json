@@ -1,1 +1,44 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact":{"type":"contact","settings":{}}},"order":["main","contact"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Une question ?",
+        "title": "Notre équipe est là pour vous",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "contact_background": "#262626",
+        "contact_text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact"
+  ]
+}
