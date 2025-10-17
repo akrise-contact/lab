@@ -1,0 +1,561 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_8J9wgX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.png",
+        "mobile_image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_Mmfaji": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_kkm8NX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/micromania-logo-png_seeklogo-305742.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_N6BHLq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Game_One_PL.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_DChA9H": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/alguem-sabe-dizer-se-a-instant-gaming-e-confiavel-v0-4eof36975cdf1-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_7bRDWC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Jeuxvideo.com_Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_kkm8NX",
+        "logo_N6BHLq",
+        "logo_DChA9H",
+        "logo_7bRDWC"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_Fd8DGf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yBDiXe": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi RetroGame Pro ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yBDiXe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_zCmxN3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices_87aeee7b-6c18-4536-9631-4f3b97d42903.png",
+        "mobile_image": "shopify://shop_images/6_benefices_87aeee7b-6c18-4536-9631-4f3b97d42903.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_8zqerX": {
+      "type": "multi-column",
+      "blocks": {
+        "item_i9DXxF": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_2025-10-14_14-59-08.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QXidcC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@bonplandenils_1760447508629.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cQdRUd": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_2025-10-14_14-59-04.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_heneXb": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@mmminidroneee_1760447820549.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YBdXzb": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@zahir_dahmani_1760447656949.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EBjG8Y": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ssstik.io_@tech_labo__1760447422042.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_i9DXxF",
+        "item_QXidcC",
+        "item_cQdRUd",
+        "item_heneXb",
+        "item_YBdXzb",
+        "item_EBjG8Y"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "+50.000 clients satisfaits",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text_V3ENx7": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>RetroGame Pro</h1>"
+          }
+        },
+        "liquid_qVmcNN": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_LDcCKw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-highlights\">\n  <p>🕹️ Prêt à jouer instantanément</p>\n  <p>🕹️ Sauvegarde auto de progression</p>\n  <p>🕹️ 12h d'autonomie sans Wi-Fi</p>\n  <p>🕹️ Garantie 1 an pour jouer l’esprit tranquille</p>\n</div>"
+          }
+        },
+        "kaching_bundles_app_block_WQR4Ad": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#be00c8",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#be00c8",
+            "payment_button_text_color": "#ffffff"
+          }
+        },
+        "liquid_AT8Nee": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        }
+      },
+      "block_order": [
+        "text_V3ENx7",
+        "liquid_qVmcNN",
+        "liquid_LDcCKw",
+        "kaching_bundles_app_block_WQR4Ad",
+        "buy_buttons",
+        "liquid_AT8Nee"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_cLtq4N": {
+      "type": "tabs",
+      "blocks": {
+        "tab_34CWqz": {
+          "type": "tab",
+          "settings": {
+            "title": "🎮 Quels jeux sont inclus ?",
+            "content": "<p>GameLab arrive préchargé avec plus de <strong>15 000 classiques</strong> sur GB/GBC/GBA, SNES, PS1, N64, DS, PSP et bien plus encore. Aucun téléchargement, compte ou Wi-Fi nécessaire.<br/><br/><strong>Les incontournables :</strong> Mario Kart, Street Fighter II, Sonic, Crash, Tekken 3, Bomberman… et une multitude de jeux d’arcade et de simulations relaxantes.<br/><br/><a href=\"/pages/liste-completes-des-jeux\" title=\"Liste complètes des jeux\">[Voir la liste complète des jeux]</a></p>",
+            "page": ""
+          }
+        },
+        "tab_DGgeDN": {
+          "type": "tab",
+          "settings": {
+            "title": "⚡ Spécifications Techniques",
+            "content": "<p><strong>Processeur :</strong> RK3326 Quad-Core 64 bits 1,5 GHz<br/><strong>RAM :</strong> 1 Go DDR3L<br/><strong>Écran :</strong> IPS HD 3,5\"<br/><strong>GPU :</strong> Mali-G31MP2<br/><strong>Stockage :</strong> 64 Go interne + emplacement extensible<br/><strong>Batterie :</strong> 3200 mAh pour des sessions de jeu prolongées</p>",
+            "page": ""
+          }
+        },
+        "tab_tBEM3R": {
+          "type": "tab",
+          "settings": {
+            "title": "🛡️  Garantie de 12 Mois",
+            "content": "<p>Votre GameLab est protégé avec <strong>12 mois de garantie</strong> contre tout défaut. Si quelque chose ne va pas, nous nous occupons de la réparation ou du remplacement pour vous, sans tracas.</p>",
+            "page": ""
+          }
+        },
+        "tab_wkNc9H": {
+          "type": "tab",
+          "settings": {
+            "title": "🤝 Multijoueur et Échanges",
+            "content": "<p>Jouez avec vos amis et faites du <strong>trading de jeux</strong> ! Connectez deux GameLabs pour des courses en tête-à-tête et des soirées multijoueur.<br/><br/>Pour profiter de fonctionnalités supplémentaires comme les échanges et évolutions de personnages dans certains jeux, ajoutez le <strong>Dongle Wi-Fi</strong> et connectez vos consoles au même réseau domestique.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_34CWqz",
+        "tab_DGgeDN",
+        "tab_tBEM3R",
+        "tab_wkNc9H"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image_with_text_overlay_f78tR3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/LIVRAISON_GRATUITE_9b992ffd-250b-4f44-9830-9088763c8fc3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_BaYcXL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FjdxYw": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/35986219915241c89f7147081e803daf.HD-1080p-4.8Mbps-58590797.mp4",
+            "column_size": "3",
+            "title": "💾 Sauvegardez & reprenez à tout moment",
+            "heading_tag": "h4",
+            "content": "<p>Appuyez sur <strong>Select + X</strong> pour enregistrer votre partie avant un boss, un saut difficile ou le dernier tour.</p><p>Raté ? <strong>Rechargez. Recommencez.</strong><br/><br/>Aucun redémarrage. Aucune frustration.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_97yfCm": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/d6176092ba784c518d4c1dc82b35f573.HD-1080p-2.5Mbps-58590104.mp4",
+            "column_size": "3",
+            "title": "👾 Jouez ensemble. Échangez ensemble.",
+            "heading_tag": "h4",
+            "content": "<p>Connectez deux GameLab et plongez dans des duels, des courses, des combats ou des parties endiablées entre amis.</p><p>Envie d’échanger ou de faire évoluer vos jeux ?<br/><br/>Ajoutez le <strong>dongle Wi-Fi</strong>, connectez les deux consoles au même réseau domestique, et <strong>échangez vos titres compatibles.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QDCYkc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gamelab_pic.png",
+            "column_size": "3",
+            "title": "🎮 Revivez les classiques. Partout. À tout moment.",
+            "heading_tag": "h4",
+            "content": "<p>GameLab met l’âge d’or du jeu vidéo <strong>dans votre poche</strong>.Plus de <strong>15 000 jeux légendaires</strong>, sans installation, sans téléchargement, et <strong>sans connexion Internet</strong>.</p><p>Rapide, portable et incroyablement simple.Allumez-la, choisissez votre jeu… et <strong>laissez-vous emporter pendant des heures.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pR6gby": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gamelab_pic_3.png",
+            "column_size": "3",
+            "title": "⚙️ Conçue comme les consoles qui vous ont fait grandir",
+            "heading_tag": "h4",
+            "content": "<p>Chaque image, chaque pression de touche est <strong>réactive, fluide et précise</strong>.</p><p>GameLab offre <strong>les sensations des consoles d’autrefois</strong>, mais en mieux.</p><p>Aucun lag. Aucun bug.<br/><br/>Juste du <strong>gameplay pur</strong>, comme avant.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xiNjyb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/regfedfgdf.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FjdxYw",
+        "item_97yfCm",
+        "item_QDCYkc",
+        "item_pR6gby",
+        "item_xiNjyb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_QDytb6": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/BOUTON_MARCHE.png",
+        "mobile_image": "shopify://shop_images/BOUTON_MARCHE.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq_eQRwy3": {
+      "type": "faq",
+      "blocks": {
+        "item_PmQhG9": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est l'autonomie de la batterie ?",
+            "content": "<p>La console offre jusqu'à 12 heures d'autonomie par charge complète, ce qui vous permet de jouer pendant de longues sessions sans interruption. Le temps de jeu peut varier selon la luminosité de l'écran et le type de jeu utilisé.</p>"
+          }
+        },
+        "item_gCMd3r": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous expédions sous 24-48h ouvrées. La livraison offerte prend généralement 5-8 jours jours ouvrés . Un numéro de suivi vous sera communiqué dès l'expédition de votre commande.</p>"
+          }
+        },
+        "item_KzpjK6": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je sauvegarder ma progression dans les jeux ?",
+            "content": "<p>Pour sauvegarder votre partie, appuyez simultanément sur SELECT + L1/R1. Pour charger une sauvegarde, utilisez la même combinaison. Vous pouvez gérer vos emplacements de sauvegarde avec SELECT + UP/DOWN.</p>"
+          }
+        },
+        "item_WJ6Q86": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je ajouter d'autres jeux ?",
+            "content": "<p>Vous pouvez facilement télécharger et ajouter vos propres jeux si vous le souhaitez. Il suffit d'insérer une carte TF (microSD) dans le slot prévu à cet effet, d'y transférer vos fichiers ROM depuis votre ordinateur, et la console les détectera automatiquement. Cela vous permet de personnaliser entièrement votre bibliothèque de jeux.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PmQhG9",
+        "item_gCMd3r",
+        "item_KzpjK6",
+        "item_WJ6Q86"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_8J9wgX",
+    "logo_list_Mmfaji",
+    "rich_text_Fd8DGf",
+    "image_with_text_overlay_zCmxN3",
+    "multi_column_8zqerX",
+    "main",
+    "tabs_cLtq4N",
+    "image_with_text_overlay_f78tR3",
+    "multi_column_BaYcXL",
+    "image_with_text_overlay_QDytb6",
+    "faq_eQRwy3"
+  ]
+}
