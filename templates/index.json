@@ -25,9 +25,65 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "rich_text_aMHL9e": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PGN7wE": {
+          "type": "heading",
+          "settings": {
+            "text": "Découvrez la RetroGame PRO",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PGN7wE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_HHJQF6": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "retrogamepro"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_kkQy9b"
+    "image_with_text_overlay_kkQy9b",
+    "rich_text_aMHL9e",
+    "featured_collection_HHJQF6"
   ]
 }
